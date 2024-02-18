@@ -1,0 +1,11 @@
+D:\prueba tecnica\MilesCarRentalApi\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\prueba tecnica\MilesCarRentalApi\Domain\bin\Debug\net8.0\Domain.dll
+D:\prueba tecnica\MilesCarRentalApi\Domain\bin\Debug\net8.0\Domain.pdb
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\Domain.dll
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\Domain.pdb
+D:\prueba tecnica\MilesCarRentalApi\Domain\obj\Debug\net8.0\ref\Domain.dll

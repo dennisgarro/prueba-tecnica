@@ -1,0 +1,17 @@
+D:\prueba tecnica\MilesCarRentalApi\InfraData\bin\Debug\net8.0\InfraData.deps.json
+D:\prueba tecnica\MilesCarRentalApi\InfraData\bin\Debug\net8.0\InfraData.runtimeconfig.json
+D:\prueba tecnica\MilesCarRentalApi\InfraData\bin\Debug\net8.0\InfraData.dll
+D:\prueba tecnica\MilesCarRentalApi\InfraData\bin\Debug\net8.0\InfraData.pdb
+D:\prueba tecnica\MilesCarRentalApi\InfraData\bin\Debug\net8.0\Domain.dll
+D:\prueba tecnica\MilesCarRentalApi\InfraData\bin\Debug\net8.0\Domain.pdb
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.csproj.AssemblyReference.cache
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.GeneratedMSBuildEditorConfig.editorconfig
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.AssemblyInfoInputs.cache
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.AssemblyInfo.cs
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.csproj.CoreCompileInputs.cache
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.csproj.CopyComplete
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.dll
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\refint\InfraData.dll
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.pdb
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\InfraData.genruntimeconfig.cache
+D:\prueba tecnica\MilesCarRentalApi\InfraData\obj\Debug\net8.0\ref\InfraData.dll
